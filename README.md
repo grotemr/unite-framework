@@ -23,7 +23,7 @@ Defensive Partners
 Actions
 ```
 ### Playbook Examples
-Forthcoming.
+- **[Log4j Critical Vulnerability Response (CVE-2021-44228)](playbooks/log4j-critical-vulnerability-response.md)** - A real-world annotated playbook showing how UN!TE's defensive partners and collaborative actions worked together during the Log4j/Log4Shell incident. This playbook demonstrates the framework mapping to an actual multi-partner cyber defense collaboration.
 ### How is UN!TE Different than Other Frameworks?
 UN!TE focuses on actions that can be taken as a defensive team across multiple organizations.  It seeks to *leverage and be paired with* other existing frameworks like MITRE ATT&CK, STIX/TAXII, the Incident Command Structure, CSIRT Services Framework, and CACAO.
 ### Authors & Contributors
